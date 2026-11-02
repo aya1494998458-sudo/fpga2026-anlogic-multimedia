@@ -7,7 +7,7 @@
 
 TD 入口：`project/src/td_project/HDMI1.4b_Transmitter_v1.0.al`，顶层模块 `top`。
 扩展 RTL 在 `rtl`，测试在 `tb`，约束在 `project/src/user_source/constraints_source`。
-最终位流及工具证据在 `reports/build_20261029_011328`。
+最终位流及完整工具证据保留在本地赛事材料的 `03_全部代码/工程源码/reports/build_20261029_011328`，未随 Git 仓库上传。仓库的 `reports/release_manifest.json` 和构建证据摘要记录该基线的校验值与结果。
 
 四个加密第三方 IP 的再分发许可尚未找到明确条款，因此未放入本发布副本。`dependencies.json` 记录相对路径和 SHA256。获得官方参考资料的合法使用权后，使用下面的脚本从本机参考工程恢复：
 
