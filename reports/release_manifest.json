@@ -1,0 +1,13 @@
+{
+  "target": "EG4S20BG256",
+  "top": "top",
+  "td_version": "6.2.168116",
+  "bitstream": "reports/build_20261029_011328/Contest1_All_Extensions.bit",
+  "size": 636608,
+  "sha256": "61f7fe5d92600f2e8c322e1cf535bce7e4e263d456f21c1cffd98602f1636107",
+  "timing_pass": true,
+  "setup_wns_ns": 0.147,
+  "hold_wns_ns": 0.003,
+  "hardware_verified": false,
+  "flash_programmed": false
+}

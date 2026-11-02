@@ -1,0 +1,92 @@
+[
+  {
+    "test": "tb_audio",
+    "passed": true,
+    "log": "reports/tb_audio.log"
+  },
+  {
+    "test": "tb_audio_rate",
+    "passed": true,
+    "log": "reports/tb_audio_rate.log"
+  },
+  {
+    "test": "tb_av_storage",
+    "passed": true,
+    "log": "reports/tb_av_storage.log"
+  },
+  {
+    "test": "tb_fifo",
+    "passed": true,
+    "log": "reports/tb_fifo.log"
+  },
+  {
+    "test": "tb_frame_memory",
+    "passed": true,
+    "log": "reports/tb_frame_memory.log"
+  },
+  {
+    "test": "tb_frame_stream",
+    "passed": true,
+    "log": "reports/tb_frame_stream.log"
+  },
+  {
+    "test": "tb_frame_writer",
+    "passed": true,
+    "log": "reports/tb_frame_writer.log"
+  },
+  {
+    "test": "tb_math",
+    "passed": true,
+    "log": "reports/tb_math.log"
+  },
+  {
+    "test": "tb_media_control",
+    "passed": true,
+    "log": "reports/tb_media_control.log"
+  },
+  {
+    "test": "tb_scaler_cases",
+    "passed": true,
+    "log": "reports/tb_scaler_cases.log"
+  },
+  {
+    "test": "tb_sector_arbiter",
+    "passed": true,
+    "log": "reports/tb_sector_arbiter.log"
+  },
+  {
+    "test": "tb_storage_scaler",
+    "passed": true,
+    "log": "reports/tb_storage_scaler.log"
+  },
+  {
+    "test": "tb_ui",
+    "passed": true,
+    "log": "reports/tb_ui.log"
+  },
+  {
+    "test": "tb_video",
+    "passed": true,
+    "log": "reports/tb_video.log"
+  },
+  {
+    "test": "tb_video_axis",
+    "passed": true,
+    "log": "reports/tb_video_axis.log"
+  },
+  {
+    "test": "tb_wav_decoder",
+    "passed": true,
+    "log": "reports/tb_wav_decoder.log"
+  },
+  {
+    "test": "tb_wav_loop",
+    "passed": true,
+    "log": "reports/tb_wav_loop.log"
+  },
+  {
+    "test": "tb_wav_output",
+    "passed": true,
+    "log": "reports/tb_wav_output.log"
+  }
+]
